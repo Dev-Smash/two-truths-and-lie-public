@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Brady Gillies
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I buy too much stuff at midnight espresso
+- I love lemons
+- I am in a relationship
 
-## Buzz Aldrin
+## Ursula Frickey
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I have never climbed a tree to the top
+- My friend is the Princess of an island
+- I am afraid of ∆
