@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Kate Norquay
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I'm allergic to cats
+- I have a film degree
+- I've travelled through Brazil on a motorbike
 
-## Buzz Aldrin
+## Michael Lowe
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- I have a youtube channel with 30,000 subscribers
+- I have never made a doctor's appointment
+- I have a neuroscience degree
